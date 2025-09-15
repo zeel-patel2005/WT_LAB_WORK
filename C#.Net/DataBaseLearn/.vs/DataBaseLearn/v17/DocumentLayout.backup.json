@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zeelp\\Desktop\\C#.Net\\DataBaseLearn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73BC47C8-B671-41CE-AE1D-E73C407E04A1}|DataBaseLearn\\DataBaseLearn.csproj|c:\\users\\zeelp\\desktop\\c#.net\\databaselearn\\databaselearn\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BC47C8-B671-41CE-AE1D-E73C407E04A1}|DataBaseLearn\\DataBaseLearn.csproj|solutionrelative:databaselearn\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ZEELP_DESKTOP_C_.NET_DATABASELEARN_DATABASELEARN_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.SampleTable.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BC47C8-B671-41CE-AE1D-E73C407E04A1}|DataBaseLearn\\DataBaseLearn.csproj|c:\\users\\zeelp\\desktop\\c#.net\\databaselearn\\databaselearn\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{73BC47C8-B671-41CE-AE1D-E73C407E04A1}|DataBaseLearn\\DataBaseLearn.csproj|solutionrelative:databaselearn\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 160,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\zeelp\\Desktop\\C#.Net\\DataBaseLearn\\DataBaseLearn\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "DataBaseLearn\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\zeelp\\Desktop\\C#.Net\\DataBaseLearn\\DataBaseLearn\\WebForm1.aspx.cs",
+              "RelativeToolTip": "DataBaseLearn\\WebForm1.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwD8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T17:20:51.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\zeelp\\Desktop\\C#.Net\\DataBaseLearn\\DataBaseLearn\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "DataBaseLearn\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\zeelp\\Desktop\\C#.Net\\DataBaseLearn\\DataBaseLearn\\WebForm1.aspx",
+              "RelativeToolTip": "DataBaseLearn\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-26T17:07:14.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.SampleTable [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ZEELP_DESKTOP_C_.NET_DATABASELEARN_DATABASELEARN_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.SampleTable.sql",
+              "ToolTip": "dbo.SampleTable [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-26T16:58:34.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

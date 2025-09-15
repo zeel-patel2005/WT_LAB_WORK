@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zeelp\\Desktop\\C#.Net\\FromLearnWithValidator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6559F4FB-773C-4960-92D3-130C3B08F5E4}|FromLearnWithValidator\\FromLearnWithValidator.csproj|c:\\users\\zeelp\\desktop\\c#.net\\fromlearnwithvalidator\\fromlearnwithvalidator\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6559F4FB-773C-4960-92D3-130C3B08F5E4}|FromLearnWithValidator\\FromLearnWithValidator.csproj|solutionrelative:fromlearnwithvalidator\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6559F4FB-773C-4960-92D3-130C3B08F5E4}|FromLearnWithValidator\\FromLearnWithValidator.csproj|C:\\Users\\zeelp\\Desktop\\C#.Net\\FromLearnWithValidator\\fromlearnwithvalidator\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6559F4FB-773C-4960-92D3-130C3B08F5E4}|FromLearnWithValidator\\FromLearnWithValidator.csproj|solutionrelative:fromlearnwithvalidator\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 182,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\zeelp\\Desktop\\C#.Net\\FromLearnWithValidator\\FromLearnWithValidator\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "FromLearnWithValidator\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\zeelp\\Desktop\\C#.Net\\FromLearnWithValidator\\FromLearnWithValidator\\WebForm1.aspx.cs",
+              "RelativeToolTip": "FromLearnWithValidator\\WebForm1.aspx.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:18:22.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\zeelp\\Desktop\\C#.Net\\FromLearnWithValidator\\FromLearnWithValidator\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "FromLearnWithValidator\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\zeelp\\Desktop\\C#.Net\\FromLearnWithValidator\\FromLearnWithValidator\\WebForm1.aspx",
+              "RelativeToolTip": "FromLearnWithValidator\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-23T17:08:55.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

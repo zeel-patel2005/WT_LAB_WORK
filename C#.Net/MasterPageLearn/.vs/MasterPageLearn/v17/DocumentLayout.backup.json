@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zeelp\\Desktop\\C#.Net\\MasterPageLearn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{782C1CC8-4225-4606-B75D-D1C30571E712}|MasterPageLearn\\MasterPageLearn.csproj|c:\\users\\zeelp\\desktop\\c#.net\\masterpagelearn\\masterpagelearn\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{782C1CC8-4225-4606-B75D-D1C30571E712}|MasterPageLearn\\MasterPageLearn.csproj|solutionrelative:masterpagelearn\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782C1CC8-4225-4606-B75D-D1C30571E712}|MasterPageLearn\\MasterPageLearn.csproj|C:\\Users\\zeelp\\Desktop\\C#.Net\\MasterPageLearn\\MasterPageLearn\\WebForm1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{782C1CC8-4225-4606-B75D-D1C30571E712}|MasterPageLearn\\MasterPageLearn.csproj|solutionrelative:MasterPageLearn\\WebForm1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782C1CC8-4225-4606-B75D-D1C30571E712}|MasterPageLearn\\MasterPageLearn.csproj|C:\\Users\\zeelp\\Desktop\\C#.Net\\MasterPageLearn\\MasterPageLearn\\WebForm1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782C1CC8-4225-4606-B75D-D1C30571E712}|MasterPageLearn\\MasterPageLearn.csproj|solutionrelative:MasterPageLearn\\WebForm1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782C1CC8-4225-4606-B75D-D1C30571E712}|MasterPageLearn\\MasterPageLearn.csproj|C:\\Users\\zeelp\\Desktop\\C#.Net\\MasterPageLearn\\MasterPageLearn\\Site1.Master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782C1CC8-4225-4606-B75D-D1C30571E712}|MasterPageLearn\\MasterPageLearn.csproj|solutionrelative:MasterPageLearn\\Site1.Master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 142,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\zeelp\\Desktop\\C#.Net\\MasterPageLearn\\MasterPageLearn\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "MasterPageLearn\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\zeelp\\Desktop\\C#.Net\\MasterPageLearn\\MasterPageLearn\\WebForm1.aspx",
+              "RelativeToolTip": "MasterPageLearn\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-25T15:44:50.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\zeelp\\Desktop\\C#.Net\\MasterPageLearn\\MasterPageLearn\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "MasterPageLearn\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\zeelp\\Desktop\\C#.Net\\MasterPageLearn\\MasterPageLearn\\WebForm1.aspx.cs",
+              "RelativeToolTip": "MasterPageLearn\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:09:40.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site1.Master.cs",
+              "DocumentMoniker": "C:\\Users\\zeelp\\Desktop\\C#.Net\\MasterPageLearn\\MasterPageLearn\\Site1.Master.cs",
+              "RelativeDocumentMoniker": "MasterPageLearn\\Site1.Master.cs",
+              "ToolTip": "C:\\Users\\zeelp\\Desktop\\C#.Net\\MasterPageLearn\\MasterPageLearn\\Site1.Master.cs",
+              "RelativeToolTip": "MasterPageLearn\\Site1.Master.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:06:15.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\zeelp\\Desktop\\C#.Net\\MasterPageLearn\\MasterPageLearn\\Site1.Master",
+              "RelativeDocumentMoniker": "MasterPageLearn\\Site1.Master",
+              "ToolTip": "C:\\Users\\zeelp\\Desktop\\C#.Net\\MasterPageLearn\\MasterPageLearn\\Site1.Master",
+              "RelativeToolTip": "MasterPageLearn\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-25T12:55:08.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zeelp\\Desktop\\C#.Net\\Masterpagequestion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88A8D340-62FB-4574-9DA0-A9C9EC9C3540}|Masterpagequestion\\Masterpagequestion.csproj|c:\\users\\zeelp\\desktop\\c#.net\\masterpagequestion\\masterpagequestion\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{88A8D340-62FB-4574-9DA0-A9C9EC9C3540}|Masterpagequestion\\Masterpagequestion.csproj|solutionrelative:masterpagequestion\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A8D340-62FB-4574-9DA0-A9C9EC9C3540}|Masterpagequestion\\Masterpagequestion.csproj|c:\\users\\zeelp\\desktop\\c#.net\\masterpagequestion\\masterpagequestion\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A8D340-62FB-4574-9DA0-A9C9EC9C3540}|Masterpagequestion\\Masterpagequestion.csproj|solutionrelative:masterpagequestion\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A8D340-62FB-4574-9DA0-A9C9EC9C3540}|Masterpagequestion\\Masterpagequestion.csproj|c:\\users\\zeelp\\desktop\\c#.net\\masterpagequestion\\masterpagequestion\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{88A8D340-62FB-4574-9DA0-A9C9EC9C3540}|Masterpagequestion\\Masterpagequestion.csproj|solutionrelative:masterpagequestion\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A8D340-62FB-4574-9DA0-A9C9EC9C3540}|Masterpagequestion\\Masterpagequestion.csproj|c:\\users\\zeelp\\desktop\\c#.net\\masterpagequestion\\masterpagequestion\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A8D340-62FB-4574-9DA0-A9C9EC9C3540}|Masterpagequestion\\Masterpagequestion.csproj|solutionrelative:masterpagequestion\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 142,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebForm2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\zeelp\\Desktop\\C#.Net\\Masterpagequestion\\Masterpagequestion\\WebForm2.aspx.cs",
+              "RelativeDocumentMoniker": "Masterpagequestion\\WebForm2.aspx.cs",
+              "ToolTip": "C:\\Users\\zeelp\\Desktop\\C#.Net\\Masterpagequestion\\Masterpagequestion\\WebForm2.aspx.cs",
+              "RelativeToolTip": "Masterpagequestion\\WebForm2.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T13:09:23.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm2.aspx",
+              "DocumentMoniker": "C:\\Users\\zeelp\\Desktop\\C#.Net\\Masterpagequestion\\Masterpagequestion\\WebForm2.aspx",
+              "RelativeDocumentMoniker": "Masterpagequestion\\WebForm2.aspx",
+              "ToolTip": "C:\\Users\\zeelp\\Desktop\\C#.Net\\Masterpagequestion\\Masterpagequestion\\WebForm2.aspx",
+              "RelativeToolTip": "Masterpagequestion\\WebForm2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-15T13:09:20.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site1.Master.cs",
+              "DocumentMoniker": "C:\\Users\\zeelp\\Desktop\\C#.Net\\Masterpagequestion\\Masterpagequestion\\Site1.Master.cs",
+              "RelativeDocumentMoniker": "Masterpagequestion\\Site1.Master.cs",
+              "ToolTip": "C:\\Users\\zeelp\\Desktop\\C#.Net\\Masterpagequestion\\Masterpagequestion\\Site1.Master.cs",
+              "RelativeToolTip": "Masterpagequestion\\Site1.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:53:32.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\zeelp\\Desktop\\C#.Net\\Masterpagequestion\\Masterpagequestion\\Site1.Master",
+              "RelativeDocumentMoniker": "Masterpagequestion\\Site1.Master",
+              "ToolTip": "C:\\Users\\zeelp\\Desktop\\C#.Net\\Masterpagequestion\\Masterpagequestion\\Site1.Master",
+              "RelativeToolTip": "Masterpagequestion\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-15T12:53:25.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

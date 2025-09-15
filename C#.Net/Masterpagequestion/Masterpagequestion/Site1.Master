@@ -1,0 +1,43 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Masterpagequestion.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Master Page Example</title>
+    <style>
+        body { font-family: Arial; margin: 0; padding: 0; }
+        .header, .footer { background-color: #ccc; padding: 10px; text-align: center; }
+        .container { display: flex; min-height: 400px; }
+        .left-panel { width: 25%; background-color: #f0f0f0; padding: 15px; }
+        .right-panel { width: 75%; padding: 15px; }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="header">
+            <h1>Zeel Website Header</h1>
+        </div>
+        <div class="container">
+            <div class="left-panel">
+                <asp:ContentPlaceHolder ID="LeftPanel" runat="server">
+                    <!-- Fixed Left Panel Content -->
+                    <h3>Navigation</h3>
+                    <ul>
+                        <li><a href="ContentPage.aspx">Home</a></li>
+                        <li><a href="#">About</a></li>
+                    </ul>
+                </asp:ContentPlaceHolder>
+            </div>
+            <div class="right-panel">
+                <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                    <!-- Dynamic Right Panel Content -->
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+        <div class="footer">
+            <h3>Footer © 2025</h3>
+        </div>
+    </form>
+</body>
+</html>
