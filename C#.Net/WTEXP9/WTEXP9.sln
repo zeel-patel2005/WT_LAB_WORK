@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTEXP9", "WTEXP9\WTEXP9.csproj", "{6F45BAC7-E969-40B9-A5D5-638A3FA6C4F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F45BAC7-E969-40B9-A5D5-638A3FA6C4F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F45BAC7-E969-40B9-A5D5-638A3FA6C4F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F45BAC7-E969-40B9-A5D5-638A3FA6C4F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F45BAC7-E969-40B9-A5D5-638A3FA6C4F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E144CB18-B97B-4F88-A420-21EE6F29D058}
+	EndGlobalSection
+EndGlobal

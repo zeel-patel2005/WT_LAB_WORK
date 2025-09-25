@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WTEXP9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F45BAC7-E969-40B9-A5D5-638A3FA6C4F7}|WTEXP9\\WTEXP9.csproj|c:\\users\\zeelp\\desktop\\wt_lab_work\\c#.net\\wtexp9\\wtexp9\\webform3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6F45BAC7-E969-40B9-A5D5-638A3FA6C4F7}|WTEXP9\\WTEXP9.csproj|solutionrelative:wtexp9\\webform3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F45BAC7-E969-40B9-A5D5-638A3FA6C4F7}|WTEXP9\\WTEXP9.csproj|c:\\users\\zeelp\\desktop\\wt_lab_work\\c#.net\\wtexp9\\wtexp9\\webform3.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F45BAC7-E969-40B9-A5D5-638A3FA6C4F7}|WTEXP9\\WTEXP9.csproj|solutionrelative:wtexp9\\webform3.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F45BAC7-E969-40B9-A5D5-638A3FA6C4F7}|WTEXP9\\WTEXP9.csproj|c:\\users\\zeelp\\desktop\\wt_lab_work\\c#.net\\wtexp9\\wtexp9\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6F45BAC7-E969-40B9-A5D5-638A3FA6C4F7}|WTEXP9\\WTEXP9.csproj|solutionrelative:wtexp9\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F45BAC7-E969-40B9-A5D5-638A3FA6C4F7}|WTEXP9\\WTEXP9.csproj|c:\\users\\zeelp\\desktop\\wt_lab_work\\c#.net\\wtexp9\\wtexp9\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F45BAC7-E969-40B9-A5D5-638A3FA6C4F7}|WTEXP9\\WTEXP9.csproj|solutionrelative:wtexp9\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F45BAC7-E969-40B9-A5D5-638A3FA6C4F7}|WTEXP9\\WTEXP9.csproj|c:\\users\\zeelp\\desktop\\wt_lab_work\\c#.net\\wtexp9\\wtexp9\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6F45BAC7-E969-40B9-A5D5-638A3FA6C4F7}|WTEXP9\\WTEXP9.csproj|solutionrelative:wtexp9\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F45BAC7-E969-40B9-A5D5-638A3FA6C4F7}|WTEXP9\\WTEXP9.csproj|c:\\users\\zeelp\\desktop\\wt_lab_work\\c#.net\\wtexp9\\wtexp9\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F45BAC7-E969-40B9-A5D5-638A3FA6C4F7}|WTEXP9\\WTEXP9.csproj|solutionrelative:wtexp9\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm3.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WTEXP9\\WTEXP9\\WebForm3.aspx.cs",
+              "RelativeDocumentMoniker": "WTEXP9\\WebForm3.aspx.cs",
+              "ToolTip": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WTEXP9\\WTEXP9\\WebForm3.aspx.cs",
+              "RelativeToolTip": "WTEXP9\\WebForm3.aspx.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T18:17:13.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm3.aspx",
+              "DocumentMoniker": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WTEXP9\\WTEXP9\\WebForm3.aspx",
+              "RelativeDocumentMoniker": "WTEXP9\\WebForm3.aspx",
+              "ToolTip": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WTEXP9\\WTEXP9\\WebForm3.aspx",
+              "RelativeToolTip": "WTEXP9\\WebForm3.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-25T18:14:31.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebForm2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WTEXP9\\WTEXP9\\WebForm2.aspx.cs",
+              "RelativeDocumentMoniker": "WTEXP9\\WebForm2.aspx.cs",
+              "ToolTip": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WTEXP9\\WTEXP9\\WebForm2.aspx.cs",
+              "RelativeToolTip": "WTEXP9\\WebForm2.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T18:06:42.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm2.aspx",
+              "DocumentMoniker": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WTEXP9\\WTEXP9\\WebForm2.aspx",
+              "RelativeDocumentMoniker": "WTEXP9\\WebForm2.aspx",
+              "ToolTip": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WTEXP9\\WTEXP9\\WebForm2.aspx",
+              "RelativeToolTip": "WTEXP9\\WebForm2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-25T18:06:15.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WTEXP9\\WTEXP9\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "WTEXP9\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WTEXP9\\WTEXP9\\WebForm1.aspx.cs",
+              "RelativeToolTip": "WTEXP9\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T17:57:02.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WTEXP9\\WTEXP9\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "WTEXP9\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WTEXP9\\WTEXP9\\WebForm1.aspx",
+              "RelativeToolTip": "WTEXP9\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-25T17:56:26.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

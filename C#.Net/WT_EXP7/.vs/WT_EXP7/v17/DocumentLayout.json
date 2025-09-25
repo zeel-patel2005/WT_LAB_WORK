@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WT_EXP7\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BD683D83-8FF5-43FD-8CF5-850C0ACE8D42}|WT_EXP7\\WT_EXP7.csproj|c:\\users\\zeelp\\desktop\\wt_lab_work\\c#.net\\wt_exp7\\wt_exp7\\codefile2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD683D83-8FF5-43FD-8CF5-850C0ACE8D42}|WT_EXP7\\WT_EXP7.csproj|solutionrelative:wt_exp7\\codefile2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD683D83-8FF5-43FD-8CF5-850C0ACE8D42}|WT_EXP7\\WT_EXP7.csproj|c:\\users\\zeelp\\desktop\\wt_lab_work\\c#.net\\wt_exp7\\wt_exp7\\codefile1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD683D83-8FF5-43FD-8CF5-850C0ACE8D42}|WT_EXP7\\WT_EXP7.csproj|solutionrelative:wt_exp7\\codefile1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD683D83-8FF5-43FD-8CF5-850C0ACE8D42}|WT_EXP7\\WT_EXP7.csproj|c:\\users\\zeelp\\desktop\\wt_lab_work\\c#.net\\wt_exp7\\wt_exp7\\webform3.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD683D83-8FF5-43FD-8CF5-850C0ACE8D42}|WT_EXP7\\WT_EXP7.csproj|solutionrelative:wt_exp7\\webform3.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD683D83-8FF5-43FD-8CF5-850C0ACE8D42}|WT_EXP7\\WT_EXP7.csproj|c:\\users\\zeelp\\desktop\\wt_lab_work\\c#.net\\wt_exp7\\wt_exp7\\webform3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BD683D83-8FF5-43FD-8CF5-850C0ACE8D42}|WT_EXP7\\WT_EXP7.csproj|solutionrelative:wt_exp7\\webform3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD683D83-8FF5-43FD-8CF5-850C0ACE8D42}|WT_EXP7\\WT_EXP7.csproj|c:\\users\\zeelp\\desktop\\wt_lab_work\\c#.net\\wt_exp7\\wt_exp7\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD683D83-8FF5-43FD-8CF5-850C0ACE8D42}|WT_EXP7\\WT_EXP7.csproj|solutionrelative:wt_exp7\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD683D83-8FF5-43FD-8CF5-850C0ACE8D42}|WT_EXP7\\WT_EXP7.csproj|c:\\users\\zeelp\\desktop\\wt_lab_work\\c#.net\\wt_exp7\\wt_exp7\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BD683D83-8FF5-43FD-8CF5-850C0ACE8D42}|WT_EXP7\\WT_EXP7.csproj|solutionrelative:wt_exp7\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD683D83-8FF5-43FD-8CF5-850C0ACE8D42}|WT_EXP7\\WT_EXP7.csproj|C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WT_EXP7\\wt_exp7\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD683D83-8FF5-43FD-8CF5-850C0ACE8D42}|WT_EXP7\\WT_EXP7.csproj|solutionrelative:wt_exp7\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BD683D83-8FF5-43FD-8CF5-850C0ACE8D42}|WT_EXP7\\WT_EXP7.csproj|c:\\users\\zeelp\\desktop\\wt_lab_work\\c#.net\\wt_exp7\\wt_exp7\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{BD683D83-8FF5-43FD-8CF5-850C0ACE8D42}|WT_EXP7\\WT_EXP7.csproj|solutionrelative:wt_exp7\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD683D83-8FF5-43FD-8CF5-850C0ACE8D42}|WT_EXP7\\WT_EXP7.csproj|c:\\users\\zeelp\\desktop\\wt_lab_work\\c#.net\\wt_exp7\\wt_exp7\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{BD683D83-8FF5-43FD-8CF5-850C0ACE8D42}|WT_EXP7\\WT_EXP7.csproj|C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WT_EXP7\\wt_exp7\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{BD683D83-8FF5-43FD-8CF5-850C0ACE8D42}|WT_EXP7\\WT_EXP7.csproj|solutionrelative:wt_exp7\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD683D83-8FF5-43FD-8CF5-850C0ACE8D42}|WT_EXP7\\WT_EXP7.csproj|c:\\users\\zeelp\\desktop\\wt_lab_work\\c#.net\\wt_exp7\\wt_exp7\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD683D83-8FF5-43FD-8CF5-850C0ACE8D42}|WT_EXP7\\WT_EXP7.csproj|solutionrelative:wt_exp7\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +46,93 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CodeFile2.cs",
+              "DocumentMoniker": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WT_EXP7\\WT_EXP7\\CodeFile2.cs",
+              "RelativeDocumentMoniker": "WT_EXP7\\CodeFile2.cs",
+              "ToolTip": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WT_EXP7\\WT_EXP7\\CodeFile2.cs",
+              "RelativeToolTip": "WT_EXP7\\CodeFile2.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T17:48:38.083Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CodeFile1.cs",
+              "DocumentMoniker": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WT_EXP7\\WT_EXP7\\CodeFile1.cs",
+              "RelativeDocumentMoniker": "WT_EXP7\\CodeFile1.cs",
+              "ToolTip": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WT_EXP7\\WT_EXP7\\CodeFile1.cs",
+              "RelativeToolTip": "WT_EXP7\\CodeFile1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T17:48:36.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm3.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WT_EXP7\\WT_EXP7\\WebForm3.aspx.cs",
+              "RelativeDocumentMoniker": "WT_EXP7\\WebForm3.aspx.cs",
+              "ToolTip": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WT_EXP7\\WT_EXP7\\WebForm3.aspx.cs",
+              "RelativeToolTip": "WT_EXP7\\WebForm3.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T17:48:29.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebForm3.aspx",
+              "DocumentMoniker": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WT_EXP7\\WT_EXP7\\WebForm3.aspx",
+              "RelativeDocumentMoniker": "WT_EXP7\\WebForm3.aspx",
+              "ToolTip": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WT_EXP7\\WT_EXP7\\WebForm3.aspx",
+              "RelativeToolTip": "WT_EXP7\\WebForm3.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-22T17:48:27.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebForm2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WT_EXP7\\WT_EXP7\\WebForm2.aspx.cs",
+              "RelativeDocumentMoniker": "WT_EXP7\\WebForm2.aspx.cs",
+              "ToolTip": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WT_EXP7\\WT_EXP7\\WebForm2.aspx.cs",
+              "RelativeToolTip": "WT_EXP7\\WebForm2.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T17:48:22.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebForm2.aspx",
+              "DocumentMoniker": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WT_EXP7\\WT_EXP7\\WebForm2.aspx",
+              "RelativeDocumentMoniker": "WT_EXP7\\WebForm2.aspx",
+              "ToolTip": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WT_EXP7\\WT_EXP7\\WebForm2.aspx",
+              "RelativeToolTip": "WT_EXP7\\WebForm2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-22T17:48:18.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WT_EXP7\\WT_EXP7\\Web.config",
               "RelativeDocumentMoniker": "WT_EXP7\\Web.config",
@@ -39,24 +145,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "WebForm1.aspx.cs",
               "DocumentMoniker": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WT_EXP7\\WT_EXP7\\WebForm1.aspx.cs",
               "RelativeDocumentMoniker": "WT_EXP7\\WebForm1.aspx.cs",
               "ToolTip": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WT_EXP7\\WT_EXP7\\WebForm1.aspx.cs",
               "RelativeToolTip": "WT_EXP7\\WebForm1.aspx.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBEAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T17:43:28.885Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "WebForm1.aspx",
               "DocumentMoniker": "C:\\Users\\zeelp\\Desktop\\WT_LAB_WORK\\C#.Net\\WT_EXP7\\WT_EXP7\\WebForm1.aspx",
               "RelativeDocumentMoniker": "WT_EXP7\\WebForm1.aspx",
