@@ -1,0 +1,32 @@
+﻿@model EXP10._4.Models.CalculatorModel
+
+@{
+    ViewBag.Title = "Calculator";
+}
+
+<h2>Zeel Calculator</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        @Html.LabelFor(m => m.Number1)
+        @Html.TextBoxFor(m => m.Number1)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Number2)
+        @Html.TextBoxFor(m => m.Number2)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Operation)
+        @Html.DropDownListFor(m => m.Operation, new SelectList(
+            new[] { "Add", "Subtract", "Multiply", "Divide" }))
+    </div>
+    <div>
+        <input type="submit" value="Calculate" />
+    </div>
+}
+
+@if (Model != null)
+{
+    <h3>Result: @Model.Result</h3>
+}
